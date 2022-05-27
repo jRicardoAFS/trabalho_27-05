@@ -1,0 +1,23 @@
+*{
+    margin: auto;
+    text-align: center;
+}
+
+th{
+    background-color: dimgray;
+    color: #fff;
+    padding: 20px;
+    
+    margin: 0;
+}
+.bonito{
+    border-top-right-radius: 15px ;
+
+
+}
+.nome{
+    border-bottom-left-radius: 15px ;
+}
+.um{
+    border-radius: 15px;
+}
